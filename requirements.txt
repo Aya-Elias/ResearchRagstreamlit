@@ -1,9 +1,0 @@
-streamlit
-requests
-numpy
-sentence-transformers
-groq
-pymupdf
-google-genai
-pillow
-faiss-cpu
